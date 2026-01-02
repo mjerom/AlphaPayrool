@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlphaPayRoll", "AlphaPayRoll\AlphaPayRoll.csproj", "{E533D086-AD90-4CBB-88CC-C82C4511D2AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayLibrary", "PayLibrary\PayLibrary.csproj", "{7B8EE40F-EFE0-49E2-8843-76CA7D11BF6A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayAPI", "PayAPI\PayAPI.csproj", "{134E8A34-278D-43A8-BFA2-1C30C81A6312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E533D086-AD90-4CBB-88CC-C82C4511D2AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E533D086-AD90-4CBB-88CC-C82C4511D2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E533D086-AD90-4CBB-88CC-C82C4511D2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E533D086-AD90-4CBB-88CC-C82C4511D2AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B8EE40F-EFE0-49E2-8843-76CA7D11BF6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8EE40F-EFE0-49E2-8843-76CA7D11BF6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8EE40F-EFE0-49E2-8843-76CA7D11BF6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8EE40F-EFE0-49E2-8843-76CA7D11BF6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{134E8A34-278D-43A8-BFA2-1C30C81A6312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134E8A34-278D-43A8-BFA2-1C30C81A6312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{134E8A34-278D-43A8-BFA2-1C30C81A6312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134E8A34-278D-43A8-BFA2-1C30C81A6312}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18118C89-F25B-45BC-ADE5-18ABC79E6598}
+	EndGlobalSection
+EndGlobal

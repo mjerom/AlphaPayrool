@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "PayAPI\\PayAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AlphaPayRoll\\AlphaPayRoll.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
